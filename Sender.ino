@@ -4,7 +4,7 @@
 const char* ssid = "Your_Wifi";       
 const char* password = "Pass_Wifi";  
 const char* mqttServer = "ip_mqtt_server";  
-const int mqttPort = port_mqqt_server;   
+const int mqttPort = change_me_port_mqtt;   
 
 #define BUTTON_PIN 5  
 
